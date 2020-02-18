@@ -5,7 +5,7 @@ import Developer from './Components/Global/Developer'
 
 function App() {
   return (
-    <div>
+    <div id="page-top">
       <Navigation />
       <Developer />
     </div>

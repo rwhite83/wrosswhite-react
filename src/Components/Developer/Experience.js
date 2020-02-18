@@ -5,7 +5,6 @@ class Experience extends React.Component {
     render() {
         return (
             <div className="container-fluid p-0">
-
                 <section className="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
                     <div className="w-100">
                         <h2 className="mb-5">Experience</h2>
@@ -56,7 +55,6 @@ class Experience extends React.Component {
 
                     </div>
                 </section>
-
             </div>
         );
     }
