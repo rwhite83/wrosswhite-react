@@ -1,7 +1,7 @@
 import React from "react";
 import text from '../../text/strings.json'
 
-class FluidContainer extends React.Component {
+class Extras extends React.Component {
 
     render() {
         return (
@@ -45,4 +45,4 @@ class FluidContainer extends React.Component {
     }
 }
 
-export default FluidContainer;
+export default Extras;

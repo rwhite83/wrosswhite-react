@@ -1,7 +1,7 @@
 import React from "react";
 import text from '../../text/strings.json'
 
-class Experience extends React.Component {
+class Projects extends React.Component {
 
     render() {
         return (
@@ -62,4 +62,4 @@ class Experience extends React.Component {
     }
 }
 
-export default Experience;
+export default Projects;

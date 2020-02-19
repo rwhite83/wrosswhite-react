@@ -53,5 +53,56 @@
         "four": "But I’m also interested in the .Net Framework and working with C# and Visual Studio to build windows applications. I was doing a lot of manual naming when sorting pictures recently and mild frustration was enough for me to quickly whip up a Windows renaming application. I love that I can do that now, it’s quite empowering. I like Object Oriented Programming and I’d love to get my teeth into larger .Net projects and work on new modules for existing systems or help start a new complex system from the beginning.",
         "five": "I am also interested in robotics and lower level programming. When I took my C++ class I remember really enjoying the language. I liked that you had access to lower level things like pointers but could also do higher level things like classes. It felt informal and put together by necessity along the way in a way which I also appreciate about JavaScript. I love the idea of working on space technologies, robots, and autonomous systems, but high low level skills are required here. I have the ability to become really good at these things, and I know I would enjoy it, but my work experience has not yet bent that way.",
         "six": "If you are a prospective employer checking me out, greetings! Feel free to look around! Although you've probably seen them already, please see below my cover letter and resume."
+    },
+    "projects": {
+        "cryptotracko": {
+            "name": "CryptoTracko API",
+            "year": 2020,
+            "tech": "MVC | Go | GraphQL | Gorm | React | JavaScript | HTML | CSS",
+            "one": "In development – Responsible for backend development and implementation of Graphql using Go language",
+            "two": "repo: https://github.com/julianvargkim/cryptotracko_api"
+        },
+        "qds20": {
+            "name": "ConEx - BCIT QDS20 Big Data Hackathon",
+            "year": 2020,
+            "tech": "MVC | Node.js | JavaScript | MySQL | Pug | HTML | CSS",
+            "one": "Over 20 hours I built a full MVC Node.js project to automate convention attendee tracking and analytic",
+            "two": "deployment: https://qds-team5.herokuapp.com/ | repo: https://github.com/rwhite83/qds20-team5"
+        },
+        "final": {
+            "name": "Final Countdown",
+            "year": 2019,
+            "tech": "MVC | Node.js | JavaScript | MySQL | Pug | HTML | CSS",
+            "one": "As a student I wanted something to help organize work priority based on when things are due, so I built it!",
+            "two": "deployment: www.finalcountdown.xyz | repo: https://github.com/rwhite83/final-countdown"
+        },        
+        "floral": {
+            "name": "Floral Trauma",
+            "year": 2019,
+            "tech": "C# | Unity | PUN | Visual Studio | ASP.NET | Node.js | JavaScript",
+            "one": "Project Lead on a 24-student game development project.  Organized teams / development sprints and built website",
+            "two": "website deployment: http://floral-trauma-mmst.herokuapp.com/"
+        },       
+        "disaster": {
+            "name": "Disaster Pets",
+            "year": 2019,
+            "tech": "Firebase | JavaScript | NoSQL | HTML | CSS",
+            "one": "Industry project involving registering pets left behind in disaster zones so emergency responders can rescue them",
+            "two": "deployment: https://disaster-pets.firebaseapp.com/"
+        },        
+        "fiona": {
+            "name": "F.I.O.N.A. (File and Information Online Network Access",
+            "year": 2020,
+            "tech": "C# | Visual Studio | SQL Server",
+            "one": "Led team of 3 to develop a user friendly ‘FileZilla my mother could use’ with server and client classes",
+            "two": "repo: https://github.com/rwhite83/CSharp-F.I.O.N.A"
+        },
+        "life": {
+            "name": "Game of Life",
+            "year": 2020,
+            "tech": "Java | OOP | Eclipse",
+            "one": "Java OOP Project to simulate carnivore/omnivore/herbivore/plant interaction ",
+            "two": ""
+        }
     }
 }

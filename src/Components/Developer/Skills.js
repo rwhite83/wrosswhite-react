@@ -31,7 +31,6 @@ class Skills extends React.Component {
                             <li className="list-inline-item">
                                 <i className="fab fa-npm"></i>
                             </li>
-                            <br></br>
                             <li className="list-inline-item">
                                 <i className="fab fa-github"></i>
                             </li>

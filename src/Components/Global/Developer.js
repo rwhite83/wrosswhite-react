@@ -26,7 +26,6 @@ class Developer extends React.Component {
                 <Extracurricular />
                 <hr className="m-0"></hr>
                 <Social />
-                }
             </div>
         );
     }
