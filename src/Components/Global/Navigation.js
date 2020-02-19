@@ -36,23 +36,23 @@ class Navigation extends React.Component {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav expanded="false" className="mr-auto">
                         <ul className="navbar-nav">
-                            <li className="nav-item">
+                            <li class="nav-item">
                                 <a className="nav-link js-scroll-trigger" href="#page-top" onClick={this.toggleExpanded}>About</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link js-scroll-trigger" href="#experience">Experience</a>
+                                <a className="nav-link js-scroll-trigger" href="#experience" onClick={this.toggleExpanded}>Experience</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link js-scroll-trigger" href="#education">Education</a>
+                                <a className="nav-link js-scroll-trigger" href="#education" onClick={this.toggleExpanded}>Education</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link js-scroll-trigger" href="#skills">Skills</a>
+                                <a className="nav-link js-scroll-trigger" href="#skills" onClick={this.toggleExpanded}>Skills</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link js-scroll-trigger" href="#interests">Interests</a>
+                                <a className="nav-link js-scroll-trigger" href="#interests" onClick={this.toggleExpanded}>Interests</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link js-scroll-trigger" href="#awards">Awards</a>
+                                <a className="nav-link js-scroll-trigger" href="#awards" onClick={this.toggleExpanded}>Awards</a>
                             </li>
                         </ul>
                     </Nav>
