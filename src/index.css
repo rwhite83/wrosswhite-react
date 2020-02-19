@@ -82,10 +82,9 @@ p.lead {
     display: none;
 }
 
-.sticky {
-    position: -webkit-sticky;
-    position: sticky;
-  }
+.spacer {
+    margin-top: 225px;
+}
 
 #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 800;

@@ -5,9 +5,10 @@ class Skills extends React.Component {
     render() {
         return (
             <div className="container-fluid p-0">
+
                 <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
                     <div className="w-100">
-                        <h2 className="mb-5">Skills</h2>
+                        <h2 className="mb-5 spacer">Skills</h2>
 
                         <div className="subheading mb-3">Programming Languages &amp; Tools</div>
                         <ul className="list-inline dev-icons">

@@ -5,9 +5,10 @@ class Experience extends React.Component {
     render() {
         return (
             <div className="container-fluid p-0">
+
                 <section className="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
                     <div className="w-100">
-                        <h2 className="mb-5">Experience</h2>
+                        <h2 className="mb-5 spacer">Experience</h2>
 
                         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                             <div className="resume-content">

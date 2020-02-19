@@ -5,10 +5,11 @@ class Education extends React.Component {
     render() {
         return (
             <div className="container-fluid p-0">
-                <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
-                    <div className="w-100">
-                        <h2 className="mb-5">Education</h2>
 
+                <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+
+                    <div className="w-100">
+                        <h2 className="mb-5 spacer">Education</h2>
                         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                             <div className="resume-content">
                                 <h3 className="mb-0">University of Colorado Boulder</h3>
