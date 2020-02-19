@@ -1,0 +1,34 @@
+{
+    "headers": {
+        "education": "Education",
+        "skills": "Skills",
+        "projects": "Projects",
+        "interests": "Interests",
+        "extracurricular": "Extracurricular",
+        "social": "Social"
+    },
+    "about": {
+        "zero": "Welcome to the online home of W. Ross White. I am recent graduate of the Computer Systems Technology (CST) program Technical Programming option at the British Columbia Institute of technology (BCIT) in Burnaby, BC.  This is an older site now (it's amazing how much you can learn in a semester), so it's just some basic bootstrap styling and front end javascript, but previously I still had a squarespace website from when I was pushing my science fiction novels.",
+        "one": "The more web development experience I got, the more emabrassing this was :p  So this is a fine, full, basic website, but I'm currently teaching myself React, so I think when I get around to it I'm going to select a more elegant look for the site, and implement it with React. But right now I'm still focusing on learning React and continuing to work on my main Node.js project.",
+        "two": "Thank you for visiting, I encourage you to poke around and check back again soon!",
+        "first": "Ross",
+        "last": "Whtie",
+        "city": "New Westminster, BC",
+        "phone": "(604) 404-0002",
+        "email": "wrosswhite@gmail.com"
+    },
+    "education": {
+        "ubc": {
+            "name": "University of British Columbia - Okanagan",
+            "degree": "Bachelor of Arts",
+            "focus": "Psychology Major / Philosophy Minor",
+            "date": "September 2010 - May 2012"
+        },
+        "bcit": {
+            "name": "British Columbia Institute of Technology",
+            "degree": "Computer Systems Technology Diploma",
+            "focus": "Technical Programming Option",
+            "date": "January 2018 - December 2019"
+        }
+    }
+}

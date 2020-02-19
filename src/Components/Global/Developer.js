@@ -1,10 +1,11 @@
 import React from "react";
 import About from "../Developer/About"
-import Experience from "../Developer/Experience"
 import Education from "../Developer/Education"
 import Skills from "../Developer/Skills"
+import Projects from "../Developer/Projects"
 import Interests from "../Developer/Interests"
-import Awards from "../Developer/Awards"
+import Extracurricular from "../Developer/Extracurricular"
+import Social from "../Developer/Social"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class Developer extends React.Component {
@@ -14,15 +15,17 @@ class Developer extends React.Component {
             <div className="container-fluid p-0" >
                 <About />
                 <hr className="m-0"></hr>
-                <Experience />
-                <hr className="m-0"></hr>
                 <Education />
                 <hr className="m-0"></hr>
                 <Skills />
                 <hr className="m-0"></hr>
+                <Projects />
+                <hr className="m-0"></hr>
                 <Interests />
                 <hr className="m-0"></hr>
-                <Awards />
+                <Extracurricular />
+                <hr className="m-0"></hr>
+                <Social />
                 }
             </div>
         );

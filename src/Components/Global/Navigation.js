@@ -2,9 +2,6 @@ import React from 'react'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import Navbar from 'react-bootstrap/Navbar'
-// import Nav from 'react-bootstrap/Nav'
-// import NavDropdown from 'react-bootstrap/NavDropdown'
 
 
 class Navigation extends React.Component {
@@ -15,6 +12,7 @@ class Navigation extends React.Component {
             expanded: false
         };
         this.toggleExpanded = this.toggleExpanded.bind(this);
+        this.collapseNav = this.collapseNav.bind(this);
     }
 
     toggleExpanded() {
@@ -23,10 +21,14 @@ class Navigation extends React.Component {
                 this.setState({ expanded: true })
     }
 
+    collapseNav() {
+        this.setState({ expanded: false })
+    }
+
     render() {
         return (
             <Navbar expanded={this.state.expanded} className="sticky-top navbar navbar-expand-lg navbar-dark bg-primary" id="sideNav" collapseOnSelect expand="lg" bg="dark" variant="dark">
-                <Navbar.Brand href="#home">W. Ross White</Navbar.Brand>
+                <Navbar.Brand href="#page-top" onClick={this.collapseNav}>W. Ross White</Navbar.Brand>
                 <Navbar.Toggle onClick={() => this.toggleExpanded() } aria-controls="responsive-navbar-nav" />
                 <a className="navbar-brand js-scroll-trigger" href="#about" id="nav-image">
                     <span className="d-none d-lg-block">
