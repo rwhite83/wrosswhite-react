@@ -1,10 +1,14 @@
 {
+    "other": {
+        "name": "W. Ross White"
+    },
     "headers": {
+        "about": "About",
         "education": "Education",
         "skills": "Skills",
         "projects": "Projects",
         "interests": "Interests",
-        "extracurricular": "Extracurricular",
+        "extras": "Extras",
         "social": "Social"
     },
     "about": {
@@ -12,7 +16,7 @@
         "one": "The more web development experience I got, the more emabrassing this was :p  So this is a fine, full, basic website, but I'm currently teaching myself React, so I think when I get around to it I'm going to select a more elegant look for the site, and implement it with React. But right now I'm still focusing on learning React and continuing to work on my main Node.js project.",
         "two": "Thank you for visiting, I encourage you to poke around and check back again soon!",
         "first": "Ross",
-        "last": "Whtie",
+        "last": "White",
         "city": "New Westminster, BC",
         "phone": "(604) 404-0002",
         "email": "wrosswhite@gmail.com"
@@ -30,5 +34,24 @@
             "focus": "Technical Programming Option",
             "date": "January 2018 - December 2019"
         }
+    },
+    "skills": {
+        "skills": "Languages, Tools, & Skills",
+        "more": "More About Me",
+        "stack": "Full Stack Web Development",
+        "mobile": "Mobile-First, Responsive Design",
+        "cross": "Cross Browser Testing & Debugging",
+        "agile": "Agile Development & Scrum",
+        "oop": "Object Oriented Programming",
+        "comms": "Stellar Communication Skills",
+        "organized": "Meticulously Organized",
+        "collaborator": "Natural Collaborator & Leader",
+        "zero": "I'm so excited about what I’ve learned to do and I’m eager to get to it. There are so many things which I take for granted now which were so mysterious when I first got started. I’m excited about all there still is to learn, there are so many cool technologies out there!",
+        "one": "I wasn't sure when I applied to the CST program. I knew I was into computers, I’d built my own PC and such, and I’d long been quite curious about what went on under the hood. I had a compatible curiosity, but couldn't know ahead of time if I'd enjoy the work. Turns out I do!",
+        "two": "It was intimidating and frustrating being a total novice up against people who already knew so much in my first term, but by the end of the third term I genuinely felt like I was solidly catching up with my peers, not to mention all of those who didn't make it along the way. I am now quite proud to have made it all the way through, full course loads all along (no taking courses in the summer to lighten the load for me), no fails and when it was all said and done a solid 79 average. All told I’m pretty proud of my accomplishment. It took 12 hour days 6 days a week, a lot of hard work, a lot of luck, and a lot of help from friends along the way. Now I'm looking forward to my next challenges.",
+        "three": "I am now looking for industry work. I’ve discovered that I have three core areas of interest.  The first is full stack web development. This is what I gravitate towards when developing personal projects at home. It’s more web technologies I’m motivated to learn independently now that school is over. I love JavaScript, I like building Node.js projects, and I’m exploring React and REST to broaden that skill set and after that I’ll be looking at Docker and python. I’m into both front end and back end. I love making cool things work in the browser and being able to show my friends real quick, and I also love being deep in the backend, interfacing with APIs, handling requests, and sending the right information back in the right way.",
+        "four": "But I’m also interested in the .Net Framework and working with C# and Visual Studio to build windows applications. I was doing a lot of manual naming when sorting pictures recently and mild frustration was enough for me to quickly whip up a Windows renaming application. I love that I can do that now, it’s quite empowering. I like Object Oriented Programming and I’d love to get my teeth into larger .Net projects and work on new modules for existing systems or help start a new complex system from the beginning.",
+        "five": "I am also interested in robotics and lower level programming. When I took my C++ class I remember really enjoying the language. I liked that you had access to lower level things like pointers but could also do higher level things like classes. It felt informal and put together by necessity along the way in a way which I also appreciate about JavaScript. I love the idea of working on space technologies, robots, and autonomous systems, but high low level skills are required here. I have the ability to become really good at these things, and I know I would enjoy it, but my work experience has not yet bent that way.",
+        "six": "If you are a prospective employer checking me out, greetings! Feel free to look around! Although you've probably seen them already, please see below my cover letter and resume."
     }
 }

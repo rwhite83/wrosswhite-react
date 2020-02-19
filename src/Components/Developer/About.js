@@ -12,22 +12,23 @@ class About extends React.Component {
                         <h1 className="mb-0">{text.about.first}
                             <span className="text-primary"> {text.about.last}</span>
                         </h1>
+                        <img style={{width: '75%', display: 'block'}} className="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt=""></img>
                         <div className="subheading mb-5">{text.about.city}<br></br>{text.about.phone}<br></br>
-                            <a href="mailto:name@email.com">{text.about.email}</a>
+                            <a href="mailto:wrosswhite@gmail.com">{text.about.email}</a>
                         </div>
-                        <p className="lead mb-5">{text.about.zero}<br></br><br></br>{text.about.one}<br></br><br></br>{text.about.two}</p>
+                        <p className="lead mb-5">{text.about.zero}<hr></hr>{text.about.one}<hr></hr>{text.about.two}</p>
                         <div className="social-icons">
                             <a href="https://www.linkedin.com/in/wrosswhite/">
-                                <i className="fa fa-linkedin"></i>
+                                <i className="fab fa-linkedin"></i>
                             </a>
                             <a href="https://github.com/rwhite83">
-                                <i className="fa fa-github"></i>
+                                <i className="fab fa-github"></i>
                             </a>
                             <a href="https://twitter.com/wrosswhite">
-                                <i className="fa fa-twitter"></i>
+                                <i className="fab fa-twitter"></i>
                             </a>
                             <a href="https://www.instagram.com/williamrosswhite/">
-                                <i className="fa fa-instagram"></i>
+                                <i className="fab fa-instagram"></i>
                             </a>
                         </div>
                     </div>

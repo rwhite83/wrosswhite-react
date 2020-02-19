@@ -4,7 +4,7 @@ import Education from "../Developer/Education"
 import Skills from "../Developer/Skills"
 import Projects from "../Developer/Projects"
 import Interests from "../Developer/Interests"
-import Extracurricular from "../Developer/Extracurricular"
+import Extracurricular from "../Developer/Extras"
 import Social from "../Developer/Social"
 import 'bootstrap/dist/css/bootstrap.min.css';
 

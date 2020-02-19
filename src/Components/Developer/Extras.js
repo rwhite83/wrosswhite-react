@@ -1,4 +1,5 @@
 import React from "react";
+import text from '../../text/strings.json'
 
 class FluidContainer extends React.Component {
 
@@ -6,9 +7,9 @@ class FluidContainer extends React.Component {
         return (
             <div className="container-fluid p-0">
 
-                <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
+                <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="extras">
                     <div className="w-100">
-                        <h2 className="mb-5 spacer text-primary">Awards &amp; Certifications</h2>
+                        <h2 className="mb-5 spacer text-primary">{text.headers.extras}</h2>
                         <ul className="fa-ul mb-0">
                             <li>
                                 <i className="fa-li fa fa-trophy text-warning"></i>
