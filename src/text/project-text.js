@@ -4,7 +4,7 @@ const projectData = [
         "name": "wrosswhite.ca",
         "year": "2020 - Present",
         "tech": "React | Bootstrap | React Bootstrap | Javascript | HTML5 | CSS",
-        "descOne": "The website you are currenty enjoying!  My previous website, seen here (link to old site) was a good demo of what I could do after term 3, but it was really just to replace my squarespace website.",
+        "descOne": "The website you are currenty enjoying!",
         "descTwo": "This is now my online portfolio, and I wanted to work with React to learn.  I really like react!  After working with Pug Interpolation, rendering components from an array of data is very satisfying.",
         "deploy_name": "wrosswhite.ca",
         "deploy": "https://wrosswhite.ca",
@@ -42,21 +42,21 @@ const projectData = [
         "repo_excuse": ""
     },
     {
-        id: 3,
-        "name": "ConEx - BCIT QDS20 Big Data Hackathon",
+        id: 4,
+        "name": "Ross' Algo Prep",
         "year": 2020,
-        "tech": "MVC | Node.js | JavaScript | MySQL | Pug | HTML5 | CSS",
-        "descOne": "Over 20 hours I built a full MVC Node.js project to automate convention attendee tracking and analytic",
+        "tech": "HTML | JavaScript | Firebase | CSS | Bootstrap",
+        "descOne": "A website I started building after graduating school to prep for technical interviews and practice my web dev skills.",
         "descTwo": "",
-        "deploy_name": "qds-team5.herokuapp.com",
-        "deploy": "https://qds-team5.herokuapp.com/",
+        "deploy_name": "rwhite83-algo-prep.web.app",
+        "deploy": "https://rwhite83-algo-prep.web.app/",
         "deploy_excuse": "",
-        "repo_name": "qds20-team5",
-        "repo": "https://github.com/rwhite83/qds20-team5",
+        "repo_name": "github.com/rwhite83/algo-prep",
+        "repo": "https://github.com/rwhite83/algo-prep",
         "repo_excuse": ""
     },
     {
-        id: 4,
+        id: 5,
         "name": "Final Countdown",
         "year": 2019,
         "tech": "MVC | Node.js | JavaScript | MySQL | Pug | HTML5 | CSS",
@@ -70,7 +70,7 @@ const projectData = [
         "repo_excuse": ""
     },
     {
-        id: 5,
+        id: 6,
         "name": "Floral Trauma",
         "year": 2019,
         "tech": "C# | Unity | PUN | Visual Studio | ASP.NET | Node.js | JavaScript",
@@ -84,7 +84,7 @@ const projectData = [
         "repo_excuse": "Not a Personal Repository",
     },
     {
-        id: 6,
+        id: 7,
         "name": "Disaster Pets",
         "year": 2019,
         "tech": "Firebase | JavaScript | NoSQL | HTML5 | CSS",
@@ -98,7 +98,7 @@ const projectData = [
         "repo_excuse": "Not a Personal Repository"
     },
     {
-        id: 7,
+        id: 8,
         "name": "F.I.O.N.A. (File and Information Online Network Access)",
         "year": 2019,
         "tech": "C# | Visual Studio | SQL Server",
@@ -112,7 +112,7 @@ const projectData = [
         "repo_excuse": ""
     },
     {
-        id: 8,
+        id: 9,
         "name": "Game of Life",
         "year": 2018,
         "tech": "Java | OOP | Eclipse",

@@ -58,7 +58,7 @@
         "languages": {
             "languages": "C# / Typescript / Javascript / Java",
             "markup": "HTML / CSS / Yaml",
-            "environments": ".NET Framework / NodeJS",
+            "environments": ".NET Framework / NodeJS / RESTful API",
             "database": "SQL / Entity Framework",
             "framework": "AngularJS / React / Vue / Bootstrap",
             "version": "GitHub",

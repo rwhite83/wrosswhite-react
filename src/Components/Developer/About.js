@@ -33,7 +33,7 @@ class About extends React.Component {
                             <a href="https://www.linkedin.com/in/wrosswhite/">
                                 <i className="fab fa-linkedin"></i>
                             </a>
-                            <a href="https://github.com/rwhite83">
+                            <a href="https://github.com/williamrosswhite">
                                 <i className="fab fa-github"></i>
                             </a>
                             <a href="https://twitter.com/wrosswhite">
